@@ -1,0 +1,5 @@
+name            'harviewer'
+maintainer      'Philip Hutchins'
+maintainer_email  'flipture@gmail.com'
+description       'Installs DM monitors that use selenium'
+version           '0.0.1'
